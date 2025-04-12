@@ -125,8 +125,6 @@ If your backend is hosted elsewhere, update the Axios base URL accordingly.
 
 ## 📸 Screenshots
 
-_Replace the placeholders below with actual screenshots:_
-
 - **Signup Page**
   ![Signup Screenshot](./screenshots/register.png)
 - **Login Page**
