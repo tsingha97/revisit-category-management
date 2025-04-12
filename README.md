@@ -130,7 +130,7 @@ _Replace the placeholders below with actual screenshots:_
 - **Signup Page**
   (./screenshots/register.png)
 - **Login Page**
-  (./screenshots/login.png)
+  ![Login Screenshot](./screenshots/login.png)
 - **Dashboard View**
   (./screenshots/dashboard.png)
 - **Add/Edit Category Form**
