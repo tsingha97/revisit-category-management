@@ -128,11 +128,12 @@ If your backend is hosted elsewhere, update the Axios base URL accordingly.
 _Replace the placeholders below with actual screenshots:_
 
 - **Signup Page**
-  (./screenshots/register.png)
+  ![Signup Screenshot](./screenshots/register.png)
 - **Login Page**
   ![Login Screenshot](./screenshots/login.png)
 - **Dashboard View**
-  (./screenshots/dashboard.png)
-- **Add/Edit Category Form**
-  (./screenshots/addItem.png)
-  (./screenshots/editItem.png)
+  ![Dashboard Screenshot](./screenshots/dashboard.png)
+- **Add Category Form**
+  ![Add Category Screenshot](./screenshots/addItem.png)
+- **Edit Category Form**
+  ![Edit Category Screenshot](./screenshots/editItem.png)
